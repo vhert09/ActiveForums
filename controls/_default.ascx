@@ -68,5 +68,3 @@ Click the continue button to get started.<br />
 <asp:Button ID="btnContinue" runat="server" CssClass="afcontinue" Text="Continue" />
 </p>
 </div>
-
-</div>
